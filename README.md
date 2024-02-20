@@ -8,5 +8,5 @@ From a Jupyterhub terminal instance:
 - `cd MDeploy`
 - `git clone https://github.com/sijuswamy/Model_Deployment.git`
 - `cd Model_Deployment`
--`. lab_setup.sh`
+-`bash lab_setup.sh`
 - `pip install -r requirements.txt`
